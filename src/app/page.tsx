@@ -10,8 +10,7 @@ export default function Home() {
         <div className="container flex flex-col justify-center items-center gap-4 text-center ">
           <h1 className="text-4xl "> Welcome to SaaS Project tutorial application</h1>
           <p>Generate hilarious Chuch Norris jokes that really aren't even that funny </p>
-          <GenerateJoke />
-          
+          <GenerateJoke /> 
         </div>
       </div>                                                                                                                                                                                        
     </main>
